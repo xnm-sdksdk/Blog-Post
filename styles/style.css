@@ -43,6 +43,11 @@ h5 {
   letter-spacing: 0.25px;
 }
 
+code{
+  color: #e95400;
+  font-weight: bold;
+}
+
 .wrapper {
   max-width: 900px;
   margin: 0 auto;
