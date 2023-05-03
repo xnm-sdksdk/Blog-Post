@@ -1,7 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600&family=Playfair+Display:wght@400;500;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600&family=Playfair+Display:wght@400;500;600&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  letter-spacing: 0.5px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display", serif;
+}
 
 .wrapper {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 32px;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 32px;
 }
+
+.info {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Playfair Display',serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #e95400;
+} 
