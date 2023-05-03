@@ -34,6 +34,7 @@ h6 {
 }
 
 .headline {
+  font-size: 18px;
   text-transform: uppercase;
   font-weight: 600;
   letter-spacing: 0px;
@@ -47,14 +48,15 @@ h2 {
 }
 
 .quote {
-    font-style: italic;
-    font-size: 14px;
-    border-left: 2px solid #e95400;
-    padding-left: 16px;
+  font-style: italic;
+  font-size: 14px;
+  border-left: 2px solid #e95400;
+  padding-left: 16px;
+  margin: 32px 0 32px 32px;
 }
 
 .quote cite {
-    display: block;
-    font-weight: 600;
-    margin-left: 20px;
+  display: block;
+  font-weight: 600;
+  margin-left: 20px;
 }
