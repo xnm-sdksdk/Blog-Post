@@ -21,6 +21,7 @@ h1 {
   font-size: 80px;
   letter-spacing: -1.5px;
   font-weight: 400;
+  margin: 0;
 }
 
 h2 {
@@ -46,6 +47,29 @@ h5 {
 code {
   color: #e95400;
   font-weight: bold;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(#e95400, #863ae8);
+  color: white;
+  text-align: center;
+}
+
+.hero h1,
+.hero p {
+  width: 75%;
+  max-width: 900px;
+  margin: 16px 0;
+}
+
+.hero hr {
+  width: 50%;
+  margin: 32px 0;
 }
 
 .wrapper {
