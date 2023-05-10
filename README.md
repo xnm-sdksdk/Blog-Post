@@ -1,24 +1,17 @@
 # Blog Post Project
 
-## Simple Landing Page oriented to the
-
-
+## Simple Landing Page oriented to the promotion of a website blog post, the styling of the page is relatively simple but informative and clear.
 
 ### In terms of seo this landing page fulfils the minimum requirements.
 
-
 ### Project Images
 
-<img src="./images">
+<img src="./images/heading.png">
 
-<img>
+<img src="./images/wrapper.png">
 
-<img src="./images">
+<img src="./images/section.png">
 
-<img src="./images">
+<img src="./images/content.png">
 
-<img src="./images">
-
-<img src="./images">
-
-<img src="./images">
+<img src="./images/footer.png">
